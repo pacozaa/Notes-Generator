@@ -1,0 +1,6 @@
+groq
+datasets
+huggingface_hub
+tqdm
+openai
+nltk
