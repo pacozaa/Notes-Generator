@@ -1,0 +1,15 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "stickyNotes": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

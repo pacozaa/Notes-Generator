@@ -12,7 +12,7 @@ def extract_sentences(dataset,sample_size,dataset_name,column_name):
   words = []
 
   # Iterate over the dataset and split the text into sentences
-  for example in dataset.shuffle():
+  for example in dataset:
       text = example[column_name]
       # SENTENCE
       # Split the text into sentences
@@ -20,21 +20,19 @@ def extract_sentences(dataset,sample_size,dataset_name,column_name):
       # Extend the list with the split sentences
       sentences.extend(split_sentences)
 
-      # WORD
-      # Split the text into words
-      split_words = word_tokenize(text)
-      combined_words = combine_words_from_split_words(split_words, 5)
-      # Extend the list with the split words
-      words.extend(combined_words)
+      # WORD      
+      # split_words = word_tokenize(text)
+      # combined_words = combine_words_from_split_words(split_words, 5)
+      # words.extend(combined_words)
 
   #Filter words
-  words=[word for word in words if any(c.isalnum() for c in word)]
+  # words=[word for word in words if any(c.isalnum() for c in word)]
 
   # Shuffle the sentences and words list
   random.shuffle(sentences)
-  random.shuffle(words)
+  # random.shuffle(words)
   mix=sentences+words
-  random.shuffle(mix)
+  # random.shuffle(mix)
   # Truncate the sentences list to the first 50 sentences
   sentences = sentences[:sample_size]
   words = words[:sample_size]

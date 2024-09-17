@@ -1,0 +1,63 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "company_v2",
+  "dataset_size": 2036091,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/pacozaa/company_v2@510fd84e92056a7cb54a5c98216a0a4c9e02bd8a/data/train-00000-of-00001.parquet": {
+      "num_bytes": 987164,
+      "checksum": null
+    }
+  },
+  "download_size": 987164,
+  "features": {
+    "companyName": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "hotTopics": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "departments": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "stickyNotes": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3023255,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2036091,
+      "num_examples": 2923,
+      "dataset_name": "company_v2"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
