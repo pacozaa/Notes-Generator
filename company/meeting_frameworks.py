@@ -1,6 +1,6 @@
 meeting_frameworks = [
     {
-        "name": "8 levels depth Mind Map",
+        "name": "depth Mind Map",
         "description": "A visual tool to organize and structure complex ideas and concepts, with 8 levels of depth to help you break down and analyze information."
     },
     {
@@ -68,3 +68,5 @@ meeting_frameworks = [
         "description": "A visual representation of the user's journey, breaking down complex features and requirements into smaller, manageable user stories, to help you prioritize and deliver value to your customers and users."
     }
 ]
+
+meeting_frameworks_names = [framework["name"] for framework in meeting_frameworks]

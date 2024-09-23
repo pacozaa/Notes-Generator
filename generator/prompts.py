@@ -1,3 +1,5 @@
+
+import random
 def get_hot_topics_prompt(company_name, company_description):
   prompt = f"""Generate 5 hot topics for this company name
 Name: {company_name}
@@ -15,22 +17,50 @@ Output only valid compact JSON in JSON array of string"""
   return prompt
 
 def get_sticky_note_system_prompt():
-    prompt = """You are a company hot topics generator.
-The Output JSON schema should include:
+    prompt = """You are a company sticky notes generator.
+    Only output valid JSON
+The Output JSON schema must include:
 { 
 "meetingName": string(name of the meeting),
 "stickyNotes":[array of string(content of sticky notes used in the meeting)]
 }"""
     return prompt
 
-def get_sticky_note_prompt(company_name, company_description,hot_topics,departments):
+def get_sticky_note_from_persona_system_prompt():
+    prompt = """You are a sticky notes generators.
+    You must generate 20 concise(1-3 words or a short sentence) sticky notes content that's likely coming from a discussion of the given persona
+    Only output valid JSON
+The Output JSON schema must include:
+{ 
+"discussionName": string(name of the discussion),
+"stickyNotes":[array of string(content of sticky notes used in the meeting)]
+}"""
+    return prompt
+
+def get_sticky_note_from_persona_prompt(persona_list,meeting_frameworks_name):
+  prompt = f"""Participants: {persona_list}
+You must generate 20 concise(1-3 words or a short sentence) sticky notes content that's likely coming from a discussion of the given persona
+Meeting Method: {meeting_frameworks_name}
+
+Only output valid JSON
+The Output JSON schema must include:
+{{ 
+"discussionName": string(name of the discussion),
+"stickyNotes":[array of string(content of sticky notes used in the meeting)]
+}}"""
+  # print(prompt)
+  return prompt
+
+def get_sticky_note_prompt(company_name, company_description,hot_topics,departments,more_info=""):
   prompt = f"""Generate meeting name and 20 sticky notes based on this information
 Company Name: {company_name}
 Description: {company_description}
 hot topics: {hot_topics}
 Departments: {departments}
+{more_info}
 
-The Output JSON schema should include:
+Only output valid JSON
+The Output JSON schema must include:
 {{ 
 "meetingName": string(name of the meeting),
 "stickyNotes":[array of string(content of sticky notes used in the meeting)]

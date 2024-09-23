@@ -1,0 +1,60 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "team_persona_hub_business_3_300k",
+  "dataset_size": 94874153,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/pacozaa/TeamPersonaHub_business_3_300k@2d2a8fdc76c6678cdcb12d3e72e657b1e3c94a6f/data/train-00000-of-00001.parquet": {
+      "num_bytes": 41178776,
+      "checksum": null
+    }
+  },
+  "download_size": 41178776,
+  "features": {
+    "persona": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "stickyNotes": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "discussionName": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "llm_response": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "framework": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 136052929,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 94874153,
+      "num_examples": 300000,
+      "dataset_name": "team_persona_hub_business_3_300k"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

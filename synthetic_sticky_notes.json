@@ -1,0 +1,702 @@
+[
+  {
+    "content": "- Complete Q3 report\n- Update project plan",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Impact Mapping"
+  },
+  {
+    "content": "- Complete Q3 report\n- Write summary for Q4 goals",
+    "category": "Feedback",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Review marketing strategy by EOD (Priority: High)",
+    "category": "Meeting Notes",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Sche... by 2...",
+    "category": "Feedback",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Comp... for ...",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Schedule team meeting? Let's get it done ASAP.",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Casual",
+    "framework": "User Story Mapping"
+  },
+  {
+    "content": "Writ... for ...",
+    "category": "Reminder",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Product Flywheel"
+  },
+  {
+    "content": "Prepare presentation before the demo (Priority: Low)",
+    "category": "To-Do",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "OKR"
+  },
+  {
+    "content": "Prep... next...",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Prepare presentation? Let's get it done next quarter.",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "Brainstorming"
+  },
+  {
+    "content": "Sche... for ...",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "Review marketing strategy? Let's get it done by EOD.",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "OKR"
+  },
+  {
+    "content": "- Review marketing strategy\n- Schedule team meeting",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "Sche... for ...",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "KPI"
+  },
+  {
+    "content": "Write summary for Q4 goals next quarter (Priority: High)",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Business Model Canvas"
+  },
+  {
+    "content": "Review marketing strategy ASAP (Priority: High)",
+    "category": "To-Do",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Upda... for ...",
+    "category": "Meeting Notes",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Moscow Analysis"
+  },
+  {
+    "content": "- Write summary for Q4 goals\n- Prepare presentation",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Product Flywheel"
+  },
+  {
+    "content": "Write summary for Q4 goals by 2024-09-30 (Priority: High)",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "Write summary for Q4 goals ASAP (Priority: Low)",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "SMART Goals"
+  },
+  {
+    "content": "Schedule team meeting? Let's get it done by EOD.",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Casual",
+    "framework": "Five Why"
+  },
+  {
+    "content": "Revi... for ...",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Impact Mapping"
+  },
+  {
+    "content": "- Prepare demo\n- Update project plan",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "Follow up on client feedback by 2024-09-30 (Priority: High)",
+    "category": "Reminder",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Schedule team meeting? Let's get it done by 2024-09-30.",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Casual",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Writ... for ...",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Five Why"
+  },
+  {
+    "content": "Follow up on client feedback for next week (Priority: Low)",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Upda... befo...",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Prepare presentation in the next meeting (Priority: High)",
+    "category": "Meeting Notes",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "- Review marketing strategy\n- Write summary for Q4 goals",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "OKR"
+  },
+  {
+    "content": "Revi... for ...",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Moscow Analysis"
+  },
+  {
+    "content": "Sche... by E...",
+    "category": "Ideas",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "- Write summary for Q4 goals\n- Prepare demo",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Prepare demo? Let's get it done for next week.",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "Brainstorming"
+  },
+  {
+    "content": "Review marketing strategy by EOD (Priority: Low)",
+    "category": "Project Milestones",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "Fix production issue? Let's get it done for next week.",
+    "category": "To-Do",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "Moscow Analysis"
+  },
+  {
+    "content": "Write summary for Q4 goals in the next meeting (Priority: Low)",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "OKR"
+  },
+  {
+    "content": "Prep... for ...",
+    "category": "Project Milestones",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Product Flywheel"
+  },
+  {
+    "content": "- Update project plan\n- Schedule team meeting",
+    "category": "To-Do",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Business Model Canvas"
+  },
+  {
+    "content": "- Prepare demo\n- Complete Q3 report",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "KPI"
+  },
+  {
+    "content": "- Review marketing strategy\n- Review marketing strategy",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Product Flywheel"
+  },
+  {
+    "content": "- Fix production issue\n- Complete Q3 report",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Moscow Analysis"
+  },
+  {
+    "content": "- Schedule team meeting\n- Follow up on client feedback",
+    "category": "Project Milestones",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Fix ... befo...",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Brainstorming"
+  },
+  {
+    "content": "Complete Q3 report next quarter (Priority: Low)",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Prep... by 2...",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Prepare presentation by EOD (Priority: Medium)",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "OKR"
+  },
+  {
+    "content": "Upda... for ...",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "User Story Mapping"
+  },
+  {
+    "content": "Prepare presentation for next week (Priority: High)",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Schedule team meeting? Let's get it done before the demo.",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Casual",
+    "framework": "Impact Mapping"
+  },
+  {
+    "content": "Comp... for ...",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "- Prepare demo\n- Review marketing strategy",
+    "category": "To-Do",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Brainstorming"
+  },
+  {
+    "content": "- Fix production issue\n- Complete Q3 report",
+    "category": "Reminder",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "Upda... befo...",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Review marketing strategy by EOD (Priority: Low)",
+    "category": "To-Do",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "Prepare demo before the demo (Priority: High)",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Five Why"
+  },
+  {
+    "content": "- Prepare presentation\n- Write summary for Q4 goals",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "OKR"
+  },
+  {
+    "content": "- Write summary for Q4 goals\n- Prepare demo",
+    "category": "Project Milestones",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "SMART Goals"
+  },
+  {
+    "content": "Follow up on client feedback for next week (Priority: Medium)",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "Five Why"
+  },
+  {
+    "content": "- Fix production issue\n- Prepare presentation",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "- Write summary for Q4 goals\n- Prepare demo",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Fix ... for ...",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Fix production issue by 2024-09-30 (Priority: High)",
+    "category": "Meeting Notes",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "OKR"
+  },
+  {
+    "content": "Revi... for ...",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Moscow Analysis"
+  },
+  {
+    "content": "Fix ... in t...",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "- Fix production issue\n- Schedule team meeting",
+    "category": "To-Do",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "Business Model Canvas"
+  },
+  {
+    "content": "Writ... ASAP...",
+    "category": "Project Milestones",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "Prep... by 2...",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "OKR"
+  },
+  {
+    "content": "Comp... befo...",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Business Model Canvas"
+  },
+  {
+    "content": "Review marketing strategy for next week (Priority: Medium)",
+    "category": "Ideas",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "- Update project plan\n- Fix production issue",
+    "category": "Feedback",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "Customer Journey Map"
+  },
+  {
+    "content": "- Prepare presentation\n- Update project plan",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "- Prepare demo\n- Prepare demo",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Bullet Points",
+    "framework": "KPI"
+  },
+  {
+    "content": "- Prepare demo\n- Schedule team meeting",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "Business Model Canvas"
+  },
+  {
+    "content": "Schedule team meeting for next week (Priority: Medium)",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Prepare presentation? Let's get it done ASAP.",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Casual",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Schedule team meeting by EOD (Priority: High)",
+    "category": "Reminder",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Brainstorming"
+  },
+  {
+    "content": "Update project plan in the next meeting (Priority: Low)",
+    "category": "Ideas",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "Impact Mapping"
+  },
+  {
+    "content": "Comp... for ...",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Shorthand",
+    "framework": "Five Why"
+  },
+  {
+    "content": "Complete Q3 report? Let's get it done for Friday meeting.",
+    "category": "Reminder",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "Lean Canvas"
+  },
+  {
+    "content": "Complete Q3 report by EOD (Priority: High)",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Complete Q3 report for next week (Priority: Medium)",
+    "category": "Project Milestones",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Sche... befo...",
+    "category": "Meeting Notes",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Prepare demo? Let's get it done for Friday meeting.",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Casual",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "Prepare presentation before the demo (Priority: Low)",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "Design Thinking"
+  },
+  {
+    "content": "Sche... in t...",
+    "category": "Feedback",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Complete Q3 report ASAP (Priority: High)",
+    "category": "Project Milestones",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "KPI"
+  },
+  {
+    "content": "Follow up on client feedback by 2024-09-30 (Priority: Medium)",
+    "category": "Project Milestones",
+    "priority": "Medium",
+    "style": "Formal",
+    "framework": "KPI"
+  },
+  {
+    "content": "- Prepare presentation\n- Prepare demo",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Bullet Points",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "Update project plan by EOD (Priority: Low)",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Formal",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "Upda... in t...",
+    "category": "Reminder",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "OKR"
+  },
+  {
+    "content": "- Prepare demo\n- Write summary for Q4 goals",
+    "category": "To-Do",
+    "priority": "Medium",
+    "style": "Bullet Points",
+    "framework": "OKR"
+  },
+  {
+    "content": "Writ... ASAP...",
+    "category": "To-Do",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "depth Mind Map"
+  },
+  {
+    "content": "Update project plan? Let's get it done for Friday meeting.",
+    "category": "Ideas",
+    "priority": "Medium",
+    "style": "Casual",
+    "framework": "KPI"
+  },
+  {
+    "content": "Fix ... for ...",
+    "category": "Meeting Notes",
+    "priority": "Low",
+    "style": "Shorthand",
+    "framework": "Agile Retrospective"
+  },
+  {
+    "content": "Complete Q3 report by EOD (Priority: High)",
+    "category": "Feedback",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Value Proposition Canvas"
+  },
+  {
+    "content": "Foll... next...",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "SMART Goals"
+  },
+  {
+    "content": "Update project plan next quarter (Priority: High)",
+    "category": "Ideas",
+    "priority": "High",
+    "style": "Formal",
+    "framework": "Five Why"
+  },
+  {
+    "content": "Prep... for ...",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Shorthand",
+    "framework": "SWOT Analysis"
+  },
+  {
+    "content": "Write summary for Q4 goals? Let's get it done before the demo.",
+    "category": "Reminder",
+    "priority": "Medium",
+    "style": "Casual",
+    "framework": "depth Mind Map"
+  }
+]
