@@ -53,13 +53,13 @@ if __name__ == "__main__":
     # pacozaa/fine_persona_mixed_7_300k
     dataset_name="pacozaa/TeamPersonaHub_business_3_300k"
     dataset = load_dataset(dataset_name,split="train")
-    dataset = dataset.shuffle().select(range(300))
+    dataset = dataset.shuffle().select(range(500))
     # Apply the process
     updated_dataset = dataset.map(
         map_dataset_with_sticky_notes, batched=True, batch_size=10, load_from_cache_file=False)
 
     # Specify the local directory where you want to save the dataset
-    local_path = f"./dataset/sticky_notes/TeamPersonaHub_business_4o_{str(uuid.uuid4())}"
+    local_path = f"./dataset/sticky_notes/TeamPersonaHub_business_500_4o_{str(uuid.uuid4())}"
 
     # Save the dataset to the local directory
     updated_dataset.save_to_disk(local_path)
