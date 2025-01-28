@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"] # Build dependencies
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "notes_generator" # Package name
+version = "0.1.0" # Version
+description = "A project to generate sticky notes using AI."
+authors = [{ name = "Your Name", email = "you@example.com" }]
+dependencies = [
+    "groq",
+    "datasets",
+    "huggingface_hub",
+    "tqdm",
+    "openai",
+    "nltk",
+    "python-dotenv",
+]
+readme = "README.md" # Path to your README file
+license = { file = "LICENSE" } # License file (optional)
+
+[project.scripts]
+chat = "chat.chat:main"
+generate_conversation = "conversation.generate_conversation:main"
+load_conversation = "conversation.load_conversation:main"
