@@ -66,6 +66,24 @@ To run the mixer, you can use the following command.
 python mixer/mixer.py
 ```
 
+## Generate Email/Conversation
+
+```bash
+# Email
+generate_email
+# Conversation
+generate_conversation
+```
+
+## Load Email/Conversation
+
+```bash
+# Email
+load_email
+# Conversation
+load_conversation
+```
+
 ## Troubleshooting
 
 1. Python package not found [chatgpt Q&A](https://chatgpt.com/share/67985d4f-bf80-8005-8b93-18317044d3d4)
