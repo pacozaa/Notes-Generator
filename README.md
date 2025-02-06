@@ -23,7 +23,7 @@ pip install -e .
 ## Check if your environment is set up correctly
 
 ```bash
-python -m chat.chat
+python -m chat.chat "Hi"
 ```
 
 or

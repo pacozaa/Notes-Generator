@@ -15,6 +15,9 @@ dependencies = [
     "openai",
     "nltk",
     "python-dotenv",
+    "pydantic",
+    "pydantic[email]",
+    "faker"
 ]
 readme = "README.md" # Path to your README file
 license = { file = "LICENSE" } # License file (optional)

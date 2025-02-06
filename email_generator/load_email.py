@@ -6,7 +6,7 @@ def main():
     path = [
         "./dataset/emails/PersonaHub_emails_50_gpt-4o-mini_d732284d-9892-4a6a-9c1c-e57b9ac526fe"
     ]
-    dataset_list=[]
+    
     # ./mixer_dataset_combined
     for local_path in path:
         # Load the dataset from the local directory
